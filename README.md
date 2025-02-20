@@ -7,7 +7,7 @@ This project focuses on **executing SQL queries** in the **Northwind database us
 In this project, I explored the **Northwind database** by writing and executing SQL queries in **MySQL** to extract meaningful insights. The queries include:  
 
 - **Basic SQL Operations**  
-  - `SELECT`, `FROM`, `JOIN`, `WHERE`, `GROUP BY`, `DISTINCT`, `LIMIT`, `ORDER BY`  
+  - `SELECT`, `FROM`, `JOIN`, `WHERE`, `GROUP BY`, `HAVING`, `DISTINCT`, `LIMIT`, `ORDER BY`  
 
 - **Filtering & Pattern Matching**  
   - `LIKE`, `BETWEEN`, `IN`  
